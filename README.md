@@ -1,6 +1,6 @@
-# nodejs
+# nodejs-playground
 
-A nodejs project
+- Modern and scalable architecture
 
 ## ✨ Features
 
@@ -10,8 +10,8 @@ A nodejs project
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/nodejs.git
-cd nodejs
+git clone https://github.com/amitdubeyup/nodejs-playground.git
+cd nodejs-playground
 
 ```
 
@@ -34,7 +34,7 @@ Update the `.env` file with your configuration values.
 ## 📁 Project Structure
 
 ```
-nodejs/
+nodejs-playground/
 ├── .env.example
 ├── README.md
 ```
